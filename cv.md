@@ -2,13 +2,13 @@
 
 ---
 
-1. **First and second name**  
+**First and second name**  
  Kajarov Azat  
  ![MarineGEO circle logo](./assets/JetSam.png "Gigachad Sam")
 
 ---
 
-2. **Contacts**
+**Contacts**
 - *Discord: Limuw#8712;*
 - [*GitHub*](https://github.com/Limuw);
 - [*VK*](https://vk.com/li__meow); 
@@ -18,7 +18,7 @@
 
 ---
 
-3. **Info**  
+**Info**  
 >I want to learn new skills in programming,  
 especially frontend  development, i think  
 RS School courses will assist me in  
@@ -26,12 +26,12 @@ achieving this goal.
 
 ---
 
-4. **Skills**  
+**Skills**  
 Beginner level of C#
 
 ---
 
-5. **Code example**  
+**Code example**  
 
 ```js
 const canv = document.getElementsByTagName("canvas")[0];
@@ -96,17 +96,17 @@ const renderRoads = (roads, objects) => {
 
 ---
 
-6. **Working Experience**  
+**Working Experience**  
      None yet
 
 ---
 
-7. **Education**  
+**Education**  
 BSUIR filial "MRC";
 
 ---
 
-8. **English level**  
+**English level**  
 According to EPAM English test - C1.
 
 
