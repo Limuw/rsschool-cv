@@ -1,27 +1,36 @@
 ## *CV For RSS*
+
 ---
+
 1. **First and second name**  
  Kajarov Azat  
  ![MarineGEO circle logo](./assets/JetSam.png "Gigachad Sam")
+
 ---
+
 2. **Contacts**
 - *Discord: Limuw#8712;*
 - [*GitHub*](https://github.com/Limuw);
 - [*VK*](https://vk.com/li__meow); 
 - [*Twitter*](https://twitter.com/itsLimuw);
 - [*Twitch*](https://www.twitch.tv/itslimuw);
-- [*Shikimori*](https://shikimori.one/Limuw);
+- [*Shikimori*](https://shikimori.one/Limuw);  
+
 ---
+
 3. **Info**  
 >I want to learn new skills in programming,  
 especially frontend  development, i think  
 RS School courses will assist me in  
 achieving this goal.  
+
 ---
 
 4. **Skills**  
 Beginner level of C#
+
 ---
+
 5. **Code example**  
 
 ```js
@@ -83,14 +92,23 @@ const renderRoads = (roads, objects) => {
     });
   }
 };
-```
+```   
+
+---
 
 6. **Working Experience**  
-  None yet
+     None yet
+
+---
+
 7. **Education**  
 BSUIR filial "MRC";
+
+---
+
 8. **English level**  
 According to EPAM English test - C1.
+
 
 
 
