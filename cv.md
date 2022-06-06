@@ -12,14 +12,14 @@
 - [*Shikimori*](https://shikimori.one/Limuw);
 ---
 3. **Info**  
-I want to learn new skills in programming,  
+>I want to learn new skills in programming,  
 especially frontend  development, i think  
 RS School courses will assist me in  
 achieving this goal.  
 ---
 
 4. **Skills**  
->Beginner level of C#
+Beginner level of C#
 ---
 5. **Code example**  
 
