@@ -6,6 +6,7 @@
 ---
 2. **Contacts**
 - *Discord: Limuw#8712;*
+- [*GitHub*](https://github.com/Limuw);
 - [*VK*](https://vk.com/li__meow); 
 - [*Twitter*](https://twitter.com/itsLimuw);
 - [*Twitch*](https://www.twitch.tv/itslimuw);
