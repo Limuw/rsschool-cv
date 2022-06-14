@@ -1,2 +1,2 @@
-https://limuw.github.io/rsschool-cv/cv
-https://limuw.github.io/rsschool-cv/
+https://Limuw.github.io/rsschool-cv/cv
+https://Limuw.github.io/rsschool-cv/
