@@ -1,0 +1,128 @@
+body {
+  background-color: rgba(0, 0, 0, 0.74);
+  color: rgba(240, 253, 255, 0.568);
+  width: 80%;
+  margin: auto;
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  height: 100%;
+}
+
+.header {
+  background-color: rgb(51 51 51);
+  border: 5px solid blueviolet;
+  padding: 30px;
+  text-align: center;
+}
+
+.footer {
+  padding: 10px;
+  background-color: rgb(51 51 51);
+  color: rgb(255 200 61);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 5px solid blueviolet;
+}
+
+#logo {
+  width: 35%;
+  height: 35%;
+  float: right;
+}
+
+.main {
+  padding: 30px;
+  flex: 1 1 auto;
+}
+
+.wrapper {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  text-decoration: none;
+  color: rgb(255, 75, 75);
+  background-color: transparent;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 110, 0);
+  background-color: transparent;
+}
+
+a:visited {
+  text-decoration: none;
+  color: rgb(255, 110, 0);
+  background-color: transparent;
+}
+
+a:hover {
+  text-decoration: none;
+  color: red;
+  background-color: transparent;
+}
+
+hr {
+  border-style: dashed;
+  height: 5px;
+  background-color: black;
+  border-color: blueviolet;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(255 200 61);
+}
+
+h2 {
+  font-weight: bold;
+  color: rgb(255 200 61);
+}
+
+div {
+  text-align: center;
+}
+
+pre {
+  overflow: auto;
+  font-size: 18px;
+  height: 300px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8) inset;
+  padding: 15px;
+  background-color: rgb(51, 51, 51);
+  border-radius: 20px 0 0 20px;
+}
+
+#sam {
+  margin-top: 20px;
+}
+
+*::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+}
+
+*::-webkit-scrollbar-track {
+  background: none;
+}
+
+*::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 10px;
+  border-radius: 5px;
+  background: #bfbfbf;
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+  list-style-position: inside;
+}
+
+nav {
+  height: 200px;
+}
